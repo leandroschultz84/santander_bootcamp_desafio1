@@ -1,0 +1,208 @@
+body{
+    background-color: #102E50;
+    box-sizing: border-box;
+    height: 100vh;
+
+
+}
+
+.lista{
+    
+    margin-left: auto;
+    margin-top: 15px;
+    display: inline-flex;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+.links{
+   
+    margin-left: 25px;
+
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: yellow;
+    text-decoration: none;
+    font-size: 25px;
+    
+    display: flex;
+    
+    
+
+
+}
+
+li{
+    text-decoration: none;
+    
+    list-style-type: none;
+    color: red;
+
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Oswald", sans-serif;
+    
+    font-weight: weight;
+    font-style: normal;
+    color: #F5C45E;
+
+}
+
+
+.subtitulo{
+    margin-left: 25px;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #E78B48;
+    font-size: 25px;
+    margin-top: 25px;
+    
+
+    
+
+
+}
+
+strong{
+    background-color: #E78B48;
+    color: #102E50;
+
+
+
+}
+
+.paragrafo{
+    margin-left: 25px;
+    
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #F5C45E;
+    font-size: 20px;
+
+
+
+}
+
+h3{
+    margin-left: 25px;
+    margin-top: 25px;
+
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #E78B48;
+    font-size: 25px;
+
+}
+
+hr{
+    
+    border: 1px solid #E78B48;
+    margin-top: 20px;
+    width: 95%;
+    margin-left: 15px;
+    max-height: 50px;
+    
+
+
+
+}
+
+ul{
+    text-decoration: none;
+    display:inline-block;
+    margin: 10px;
+    margin-left: 25px;
+    
+    
+    
+   
+
+
+}
+
+a{
+    text-decoration:underline;
+    color: #F5C45E;
+    align-items: center;
+
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 15px;
+    margin:auto;
+
+
+
+    
+    
+}
+
+
+.links-ref{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #F5C45E;
+    font-size: 20px;
+    text-decoration: none;
+   
+}
+
+
+
+iframe{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+
+    margin-top: 15px;
+
+    width: 600px;
+    height: 250px;
+    
+
+
+
+
+
+}
+
+
+.rodape{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #102E50;
+    font-size: 25px;
+    background-color: #F5C45E;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+
+}
